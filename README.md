@@ -1,5 +1,7 @@
 Thank you for checking out my SnipPi for your Raspberry Pi.
 
+![SnipPi Snipping Tool](gui.png)
+
 SnipPi is a snipping tool to capture images of an actual window, fullscreen or user defined areas.
 When you use SnipPi you will notice it will automatically minimize itself so be out of the way. The cursor will not be in the 
 capture you take.
